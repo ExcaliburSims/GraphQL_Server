@@ -1,23 +1,14 @@
 {
-  "name": "graphql_server",
+  "name": "GraphQL_Server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "graphpack",
     "build": "graphpack build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ExcaliburSims/GraphQL_Server.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ExcaliburSims/GraphQL_Server/issues"
-  },
-  "homepage": "https://github.com/ExcaliburSims/GraphQL_Server#readme",
+  "repository": "https://github.com/ExcaliburSims/GraphQL_Server.git",
+  "author": "ExcaliburSims <ximeonzilu@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "graphpack": "^1.0.9"
   }
